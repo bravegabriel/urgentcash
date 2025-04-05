@@ -1,9 +1,12 @@
 import Image from "next/image";
 
+
 export default function Home() {
+
   return (
+
     <main>
-      <div className="bg-green-800 h-[500px] flex items-center justify-start p-6 pl-35">
+      {/* <div className="bg-green-800 h-[500px] flex items-center justify-start p-6 pl-35">
         <div className="">
           <h1 className="text-4xl md:text-5xl font-semibold">
             Increasing Access to <br />   Higher Education
@@ -60,7 +63,7 @@ export default function Home() {
           <h1 className="text-center font-semibold text-4xl mb-3">Let move forword together</h1>
           <p className="text-center text-gray-500 text-2xl mb-3">The more you use Urgentcash, the better your offers become.< br/> Get lower rates and longer repayment terms, when you take < br/>Urgentcash loan and repay it on time.</p>
         
-          
+           */}
      
 
 
