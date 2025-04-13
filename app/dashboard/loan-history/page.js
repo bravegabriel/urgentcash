@@ -1,4 +1,6 @@
-import { HistoryTab } from "@/components/HIstoryTab";
+import { HistoryTab } from "@/components/HistoryTab";
+
+
 
 
 export default function LoanHistory(){
@@ -7,7 +9,7 @@ export default function LoanHistory(){
             <div className="w-[380px] min-h-[400px] bg-white rounded-md p-4">
                 <h1>My Loan History</h1>
                 <div className="flex flex-col gap-4">
-                    <HistoryTab/>
+                <HistoryTab />          
                 </div>
             </div>
 
